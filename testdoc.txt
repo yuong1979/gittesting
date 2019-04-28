@@ -1,6 +1,10 @@
 testing hello
 
+<<<<<<< HEAD
+adding new changes additional
+=======
 adding spectacular changes
+>>>>>>> yuong1979-patch-2
 
 
 new script here 2
